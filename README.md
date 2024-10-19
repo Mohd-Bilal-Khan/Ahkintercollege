@@ -1,1 +1,2 @@
-# ahkintercollege
+# Ahkintercollege
+A school website project
